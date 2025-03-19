@@ -12,8 +12,8 @@
 - **CI/CD & Automation** (GitHub Actions, Jenkins)  
 
 ### 📊 Big Data & Databases  
-- Learning **Big Data Processing** (Hadoop, Spark, Kafka)  
-- Experience with **Relational & NoSQL Databases** (MySQL, MongoDB)  
+- Learning **Big Data Processing** 
+- Experience with **Relational & NoSQL Databases**  
 
 ### 💻 Backend & Programming  
 - **Java & Spring Boot**  
