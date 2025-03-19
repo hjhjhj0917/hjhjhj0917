@@ -26,3 +26,20 @@
 - Interested in **AI & NLP**  
 
 ---
+
+## 🌟 My Goals for 2025
+
+- ✅ **Develop advanced AI-powered applications** using **LLM & RAG**
+- ✅ **Enhance Cloud-Native applications** with **Wasm & Kubernetes**
+- ✅ **Contribute more Open Source projects**
+- ✅ **Publish research** on **AI, Cloud Computing, and Big Data**
+
+---
+
+## 📧 Contact
+
+📩 **Email:** [hglee67@kopo.ac.kr](mailto:hglee67@kopo.ac.kr)  1  
+
+---
+
+🚀 **Studing everyday!!**
