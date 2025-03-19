@@ -11,7 +11,7 @@
 - Learning **Big Data Processing**   
 
 ### 💻 Backend & Programming  
-- **Java & Spring Boot**  
+- **☕ Java & Spring Boot**  
 - **Web Development** (HTML, CSS, JavaScript)  
 - **Flutter for Mobile Development**     
 
