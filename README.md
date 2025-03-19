@@ -10,7 +10,7 @@
 ### 📊 Big Data  
 - Learning **Big Data Processing**   
 
-### 💻 Backend & Programming  
+### ⚙️ Backend & Programming  
 - **☕ Java & Spring Boot**  
 - **🖥 Web Development** (HTML, CSS, JavaScript)  
 - **📱 Flutter for Mobile Development**     
