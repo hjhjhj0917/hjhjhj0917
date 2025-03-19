@@ -1,6 +1,6 @@
-# 🚀 [Junmo Yang] | College Student  
+#  [Junmo Yang] | College Student  
 
-## 🎯 About Me  
+## 🚀 About Me  
 - 📚 Studying **Big Data** at **Korea Polytechnic of Seoul Gangseo Campus**  
 - 🎓 Completed a **6-month government-funded bootcamp** (Java, HTML, Flutter)  
 - 🔍 Interested in **Backend Development, Big Data**
