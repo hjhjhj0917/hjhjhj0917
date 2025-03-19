@@ -8,7 +8,7 @@
 ## 🛠 Tech Stack & Expertise    
 
 ### 📊 Big Data  
-- Learning **Big Data Processing**   
+- ✏ Learning **Big Data Processing**   
 
 ### ⚙️ Backend & Programming  
 - **☕ Java & Spring Boot**  
