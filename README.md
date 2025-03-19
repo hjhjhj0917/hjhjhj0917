@@ -20,7 +20,7 @@
 ## 🌟 My Goals for 2025
 
 - ✅ Obtaining **SQLD Certification**
-- ✅ 
+- ✅ Achieve good results in **한이음**
 - ✅ **Review Everyday**
 
 ---
