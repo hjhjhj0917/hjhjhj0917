@@ -29,10 +29,10 @@
 
 ## 🌟 My Goals for 2025
 
-- ✅ **Develop advanced AI-powered applications** using **LLM & RAG**
-- ✅ **Enhance Cloud-Native applications** with **Wasm & Kubernetes**
-- ✅ **Contribute more Open Source projects**
-- ✅ **Publish research** on **AI, Cloud Computing, and Big Data**
+- ✅ Obtaining **SQLD certification**
+- ✅ 
+- ✅
+- ✅ 
 
 ---
 
