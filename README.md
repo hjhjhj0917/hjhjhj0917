@@ -39,7 +39,7 @@
 ## 🏡 Hobby
 
 -🏸 Badminton
--🎮 Battleground : Computer game
+-🎮 Battleground Computer game
 
 ---
 
