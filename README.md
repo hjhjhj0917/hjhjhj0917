@@ -5,24 +5,15 @@
 - 🎓 Completed a **6-month government-funded bootcamp** (Java, HTML, Flutter)  
 - 🔍 Interested in **Backend Development, Big Data**  
 
-## 🛠 Tech Stack & Expertise  
+## 🛠 Tech Stack & Expertise    
 
-### ☁ Cloud & DevOps  
-- Basics of **Cloud Native Development** (Docker, Kubernetes)  
-- **CI/CD & Automation** (GitHub Actions, Jenkins)  
-
-### 📊 Big Data & Databases  
-- Learning **Big Data Processing** 
-- Experience with **Relational & NoSQL Databases**  
+### 📊 Big Data  
+- Learning **Big Data Processing**   
 
 ### 💻 Backend & Programming  
 - **Java & Spring Boot**  
 - **Web Development** (HTML, CSS, JavaScript)  
-- **Flutter for Mobile Development**   
-
-### 🤖 AI & Machine Learning (Learning)  
-- Exploring **Data Visualization** (Matplotlib, Seaborn)  
-- Interested in **AI & NLP**  
+- **Flutter for Mobile Development**     
 
 ---
 
