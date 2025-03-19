@@ -38,8 +38,8 @@
 
 ## 🏡 Hobby
 
--🏸 Badminton
--🎮 Battleground Computer game
+- 🏸 Badminton
+- 🎮 Battleground : Computer game
 
 ---
 
