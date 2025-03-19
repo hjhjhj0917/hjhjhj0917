@@ -3,7 +3,7 @@
 ## 🎯 About Me  
 - 📚 Studying **Big Data** at **Korea Polytechnic University**, Gangseo Campus  
 - 🎓 Completed a **6-month government-funded bootcamp** (Java, HTML, Flutter)  
-- 🔍 Interested in **Backend Development, Big Data, and Cloud Computing**  
+- 🔍 Interested in **Backend Development, Big Data**  
 
 ## 🛠 Tech Stack & Expertise  
 
