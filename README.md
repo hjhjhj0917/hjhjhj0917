@@ -30,8 +30,7 @@
 
 - ✅ Obtaining **SQLD Certification**
 - ✅ 
-- ✅
-- ✅ 
+- ✅ **Review Everyday**
 
 ---
 
