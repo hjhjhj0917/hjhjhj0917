@@ -16,10 +16,9 @@
 - Experience with **Relational & NoSQL Databases** (MySQL, MongoDB)  
 
 ### 💻 Backend & Programming  
-- **Java & Spring Boot** (Spring Security, REST API, JWT)  
+- **Java & Spring Boot**  
 - **Web Development** (HTML, CSS, JavaScript)  
-- **Flutter for Mobile Development**  
-- **Python Basics** (for Data Analysis & AI)  
+- **Flutter for Mobile Development**   
 
 ### 🤖 AI & Machine Learning (Learning)  
 - Exploring **Data Visualization** (Matplotlib, Seaborn)  
