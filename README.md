@@ -36,9 +36,10 @@
 
 ---
 
-## Hobby
+## 🏡 Hobby
 
--🏸 badminton
+-🏸 Badminton
+-🎮 Battleground : Computer game
 
 ---
 
