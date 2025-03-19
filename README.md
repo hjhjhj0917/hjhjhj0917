@@ -13,7 +13,7 @@
 ### 💻 Backend & Programming  
 - **☕ Java & Spring Boot**  
 - **Web Development** (HTML, CSS, JavaScript)  
-- **Flutter for Mobile Development**     
+- **📱 Flutter for Mobile Development**     
 
 ---
 
