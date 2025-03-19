@@ -49,4 +49,4 @@
 
 ---
 
-🚀 **Studing everyday!!**
+🚀 **Studing Everyday!!**
