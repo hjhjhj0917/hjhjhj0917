@@ -38,7 +38,7 @@
 
 ## 📧 Contact
 
-📩 **Email:** [hglee67@kopo.ac.kr](mailto:hglee67@kopo.ac.kr)  1  
+📩 **Email:** [jemmaumma@naver.com](mailto:jemmaumma@naver.com)  1  
 
 ---
 
