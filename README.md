@@ -1,4 +1,4 @@
-#👨‍🏫  [Junmo Yang] | College Student  
+### 👨‍🏫  [Junmo Yang] | College Student  ###
 
 ## 🚀 About Me  
 - 📚 Studying **Big Data** at **Korea Polytechnic of Seoul Gangseo Campus**  
