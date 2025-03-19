@@ -1,16 +1,28 @@
-## Hi there 👋
+# 🚀 [Junmo Yang] | College Student  
 
-<!--
-**hjhjhj0917/hjhjhj0917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 About Me  
+- 📚 Studying **Big Data** at Korea Polytechnic University, Gangseo Campus  
+- 🎓 Completed a **6-month government-funded bootcamp** (Java, HTML, Flutter)  
+- 🔍 Interested in **Backend Development, Big Data, and Cloud Computing**  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack & Expertise  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ☁ Cloud & DevOps  
+- Basics of **Cloud Native Development** (Docker, Kubernetes)  
+- **CI/CD & Automation** (GitHub Actions, Jenkins)  
+
+### 📊 Big Data & Databases  
+- Learning **Big Data Processing** (Hadoop, Spark, Kafka)  
+- Experience with **Relational & NoSQL Databases** (MySQL, MongoDB)  
+
+### 💻 Backend & Programming  
+- **Java & Spring Boot** (Spring Security, REST API, JWT)  
+- **Web Development** (HTML, CSS, JavaScript)  
+- **Flutter for Mobile Development**  
+- **Python Basics** (for Data Analysis & AI)  
+
+### 🤖 AI & Machine Learning (Learning)  
+- Exploring **Data Visualization** (Matplotlib, Seaborn)  
+- Interested in **AI & NLP**  
+
+---
