@@ -38,7 +38,7 @@
 
 ## 📧 Contact
 
-📩 **Email:** [jemmaumma@naver.com](mailto:jemmaumma@naver.com)  1  
+📩 **Email:** [jemmaumma@naver.com](mailto:jemmaumma@naver.com)    
 
 ---
 
