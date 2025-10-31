@@ -1,44 +1,44 @@
-# 👨‍🎓  [Junmo Yang] | College Student  
+# 👨‍🎓 [양준모] | 대학생  
 
-## 🚀 About Me  
-- 📚 Studying **Big Data** at **Korea Polytechnic of Seoul Gangseo Campus**  
-- 🎓 Completed a **6-month government-funded bootcamp** (Java, HTML, Flutter)  
-- 🔍 Interested in **Backend Development, Big Data**
+## 🚀 소개  
+- 📚 **서울강서캠퍼스 한국폴리텍대학**에서 **빅데이터** 전공 중  
+- 🎓 **6개월 정부지원 부트캠프** (Java, HTML, Flutter) 수료  
+- 🔍 **백엔드 개발**과 **빅데이터** 분야에 관심이 많습니다  
 
 ---
 
-## 🛠 Tech Stack & Expertise    
+## 🛠 기술 스택 & 역량  
 
-### 📊 Big Data  
-- ✏ Learning **Big Data Processing**   
+### 📊 빅데이터  
+- ✏ **빅데이터 처리 기술** 학습 중  
 
-### ⚙️ Backend & Programming  
+### ⚙️ 백엔드 & 프로그래밍  
 - **☕ Java & Spring Boot**  
-- **🖥 Web Development** (HTML, CSS, JavaScript)  
-- **📱 Flutter for Mobile Development**     
+- **🖥 웹 개발** (HTML, CSS, JavaScript)  
+- **📱 모바일 개발** (Flutter)  
 
 ---
 
-## 🌟 My Goals for 2025
+## 🌟 2025년 목표  
 
--  ~~Obtaining **SQLD Certification**~~ ✅
--  ~~Achieve good results in **한이음**~~ ✅
--  Achieve good results in **K-PaaS**
--  **Review Everyday**
-
----
-
-## 🏡 Hobby
-
-- 🏸 Badminton
-- 🎮 Battleground : Computer game
+- ~~**SQLD 자격증 취득**~~ ✅  
+- ~~**한이음 프로젝트** 우수 결과 달성~~ ✅  
+- **K-PaaS 프로젝트** 우수 결과 달성  
+- **매일 복습하기**  
 
 ---
 
-## 📧 Contact
+## 🏡 취미  
 
-📩 **Email:** [yjmo0309@gmail.com](mailto:yjmo0309@gmail.com)    
+- 🏸 배드민턴  
+- 🎮 배틀그라운드 (PC 게임)  
 
 ---
 
-🚀 **Studing Everyday!!**
+## 📧 연락처  
+
+📩 **이메일:** [yjmo0309@gmail.com](mailto:yjmo0309@gmail.com)  
+
+---
+
+🚀 **매일 공부하며 성장 중!**
