@@ -15,7 +15,6 @@
 ### ⚙️ 백엔드 & 프로그래밍  
 - **☕ Java & Spring Boot**  
 - **🖥 웹 개발** (HTML, CSS, JavaScript)  
-- **📱 모바일 개발** (Flutter)  
 
 ---
 
