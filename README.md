@@ -12,8 +12,8 @@
 - ✏ **빅데이터 처리 기술** 학습 중  
 
 ### ⚙️ 백엔드 & 프로그래밍  
-- **☕ Java & Spring Boot**  
-- **🖥 웹 개발** (HTML, CSS, JavaScript)  
+- **☕ Java & Spring Boot & Python**  
+- **🖥 웹 개발** (HTML, CSS, JavaScript, React)  
 
 ---
 
