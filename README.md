@@ -9,7 +9,9 @@ Backend
 - 웹 서비스 기획부터 배포, 인프라 구축까지 전체 사이클을 경험하며 풀스택 역량을 키우고 있습니다.[
 
 ## GitHub Stats
-https://github-readme-stats.vercel.app/api?username=hjhjhj0917)&hide=stars,contribs&count_private=true&show_icons=true&&theme=radical
+<a href="https://github.com/hjhjhj0917">
+  <img src="https://github-readme-stats.vercel.app/api?username=hjhjhj0917&show_icons=true&theme=radical&v=1" alt="GitHub Stats" />
+</a>
 
 ## Skills
 
