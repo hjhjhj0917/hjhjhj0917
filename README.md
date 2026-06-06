@@ -1,6 +1,5 @@
 # Yang Jun-mo
-Backend & AI Developer
-
+Backend
 > "도전은 성장의 가장 빠른 방법이다."[cite: 1]
 > 꾸준한 성장을 지향하며, 새로운 기술을 서비스에 적용하고 문제를 해결하는 과정을 즐깁니다.[cite: 1]
 
