@@ -1,13 +1,12 @@
 # Yang Jun-mo
-Backend & AI Developer
-
-> "도전은 성장의 가장 빠른 방법이다."[cite: 1]
-> 꾸준한 성장을 지향하며, 새로운 기술을 서비스에 적용하고 문제를 해결하는 과정을 즐깁니다.[cite: 1]
+Backend
+> "도전은 성장의 가장 빠른 방법이다."
+> 꾸준한 성장을 지향하며, 새로운 기술을 서비스에 적용하고 문제를 해결하는 과정을 즐깁니다.
 
 ## About Me
-- 한국폴리텍대학 서울강서캠퍼스 빅데이터과 재학 (2025.03 ~ 2027.02)[cite: 1]
-- Spring Boot 기반의 백엔드 시스템 구축과 RAG, 생성형 AI 기술 연동에 관심이 많습니다.[cite: 1]
-- 웹 서비스 기획부터 배포, 인프라 구축까지 전체 사이클을 경험하며 풀스택 역량을 키우고 있습니다.[cite: 1]
+- 한국폴리텍대학 서울강서캠퍼스 빅데이터과 재학 (2025.03 ~ )
+- Spring Boot 기반의 백엔드 시스템 구축과 RAG, 생성형 AI 기술 연동에 관심이 많습니다.
+- 웹 서비스 기획부터 배포, 인프라 구축까지 전체 사이클을 경험하며 풀스택 역량을 키우고 있습니다.[
 
 ## GitHub Stats
 [![Yang Jun-mo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hjhjhj0917&show_icons=true&theme=radical)](https://github.com/hjhjhj0917)
@@ -27,13 +26,13 @@ Backend & AI Developer
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 ## Projects
-- **MAUM** (2026.03 ~ 2026.06) : 일기 텍스트 기반 감정 분석 및 RAG 챗봇 서비스[cite: 1]
-- **Shall With Me** (2025.07 ~ 2025.11) : 청년 주거 매칭 및 정책 상담 챗봇 플랫폼[cite: 1]
-- **Märchand** (2025.03 ~ 2025.10) : 수어 인식 및 생성형 AI 활용 동화 학습 서비스[cite: 1]
+- **MAUM** (2026.03 ~ 2026.06) : 일기 텍스트 기반 감정 분석 및 RAG 챗봇 서비스
+- **Shall With Me** (2025.07 ~ 2025.11) : 청년 주거 매칭 및 정책 상담 챗봇 플랫폼
+- **Märchand** (2025.03 ~ 2025.10) : 수어 인식 및 생성형 AI 활용 동화 학습 서비스
 
 ## Awards & Certifications
-- **Awards** : 2025 한이음 드림업 공모전 장려상, 2025 새싹 해커톤 본선 진출[cite: 1]
-- **Certifications** : 정보처리산업기사 필기 합격 (2026.03), SQLD 취득 (2025.06)[cite: 1]
+- **Awards** : 2025 한이음 드림업 공모전 장려상, 2025 새싹 해커톤 본선 진출
+- **Certifications** : 정보처리산업기사 필기 합격 (2026.03), SQLD 취득 (2025.06)
 
 ## Contact
 <a href="mailto:yjmo0309@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
