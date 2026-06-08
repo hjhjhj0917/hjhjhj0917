@@ -59,4 +59,4 @@ MAUM (일기 기반 AI 감정 분석 및 RAG 챗봇)
 
 ## Contact
 <a href="mailto:yjmo0309@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.notion.so/bc7ecee3ce1783e6b03d81eb494b5711"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<!-- <a href="https://www.notion.so/bc7ecee3ce1783e6b03d81eb494b5711"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a> -->
