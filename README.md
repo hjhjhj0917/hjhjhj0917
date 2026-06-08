@@ -41,7 +41,9 @@ Backend
 
 ## Projects
 
-- MAUM (2026.03 ~ 2026.06) : 일기 텍스트 기반 감정 분석 및 RAG 챗봇 서비스
+> **MAUM (일기 기반 AI 감정 분석 및 RAG 챗봇)**
+> - **주요 기술**: Spring Boot, JWT, Redis, KoELECTRA, HyperCLOVA X, MongoDB Atlas Vector Search
+> - **설명**: 사용자의 일기 데이터를 기반으로 감정을 분석하고, RAG 기술을 통해 개인화된 상담을 제공하는 챗봇 서비스입니다.
 - Shall With Me (2025.07 ~ 2025.11) : 청년 주거 매칭 및 정책 상담 챗봇 플랫폼
 - Märchand (2025.03 ~ 2025.10) : 수어 인식 및 생성형 AI 활용 동화 학습 서비스
 
