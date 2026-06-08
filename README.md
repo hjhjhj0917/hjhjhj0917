@@ -40,13 +40,35 @@ Backend
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
 ## Projects
-- **MAUM** (2026.03 ~ 2026.06) : 일기 텍스트 기반 감정 분석 및 RAG 챗봇 서비스
-- **Shall With Me** (2025.07 ~ 2025.11) : 청년 주거 매칭 및 정책 상담 챗봇 플랫폼
-- **Märchand** (2025.03 ~ 2025.10) : 수어 인식 및 생성형 AI 활용 동화 학습 서비스
 
-## Awards & Certifications
-- **Awards** : 2025 한이음 드림업 공모전 장려상, 2025 새싹 해커톤 본선 진출
-- **Certifications** : 정보처리산업기사 필기 합격 (2026.03), SQLD 취득 (2025.06)
+<details open>
+<summary><b>1. MAUM (일기 기반 AI 감정 분석 및 RAG 챗봇)</b> | 2026.03 ~ 2026.06</summary>
+
+- **주요 기능**:
+  - **인증 시스템**: JWT 및 Redis를 활용한 유저 인증 및 세션 관리
+  - **AI 감정 분석**: KoELECTRA(감정 분류) 및 klue/bert-base(우울증 모델) 파인튜닝 수행
+  - **생성형 AI**: HyperCLOVA X(HCX-007)를 통한 일기 요약 및 상담 챗봇 구현
+  - **RAG 시스템**: MongoDB Atlas Vector Search를 활용한 유사도 기반 데이터 검색 파이프라인 구축
+</details>
+
+<details>
+<summary><b>2. 살며시 (Shall With Me, 쉐어하우스 매칭 서비스)</b> | 2025.07 ~ 2025.11</summary>
+
+- **주요 기능**:
+  - **백엔드 구축**: Spring Boot MVC 기반 CRUD 설계 및 AWS EC2 인프라 배포
+  - **실시간 통신**: WebSocket 및 STOMP 메시지 브로커를 활용한 1:1 채팅 시스템 구현
+  - **공공 API 연동**: 온통청년 API 데이터를 활용한 청년정책 정보 수집
+  - **AI 챗봇**: Langchain4j를 적용한 RAG 기반 상담 파이프라인 구축
+</details>
+
+<details>
+<summary><b>3. 메르핸드 (Märchand, 수어 학습 서비스)</b> | 2025.03 ~ 2025.10</summary>
+
+- **주요 기능**:
+  - **모션 인식**: TensorFlow 기반 실시간 동작 인식 및 수어 번역 알고리즘 개발
+  - **콘텐츠 생성**: OpenAI API 연동을 통한 동화 텍스트 생성 및 AI 이미지 자동화
+  - **시스템 설계**: MyBatis를 활용한 회원 정보 및 수어 학습 데이터 관리 체계 구축
+</details>
 
 ## Contact
 <a href="mailto:yjmo0309@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
