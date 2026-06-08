@@ -48,9 +48,9 @@ Backend
 </a>
 
 </div>
-- **MAUM** (2026.03 ~ 2026.06) : 일기 텍스트 기반 감정 분석 및 RAG 챗봇 서비스
-- **Shall With Me** (2025.07 ~ 2025.11) : 청년 주거 매칭 및 정책 상담 챗봇 플랫폼
-- **Märchand** (2025.03 ~ 2025.10) : 수어 인식 및 생성형 AI 활용 동화 학습 서비스
+- MAUM (2026.03 ~ 2026.06) : 일기 텍스트 기반 감정 분석 및 RAG 챗봇 서비스
+- Shall With Me (2025.07 ~ 2025.11) : 청년 주거 매칭 및 정책 상담 챗봇 플랫폼
+- Märchand (2025.03 ~ 2025.10) : 수어 인식 및 생성형 AI 활용 동화 학습 서비스
 
 ## Contact
 <a href="mailto:yjmo0309@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
