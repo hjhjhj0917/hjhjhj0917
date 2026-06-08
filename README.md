@@ -44,8 +44,18 @@ Backend
 > **MAUM (일기 기반 AI 감정 분석 및 RAG 챗봇)**
 > - **주요 기술**: Spring Boot, JWT, Redis, KoELECTRA, HyperCLOVA X, MongoDB Atlas Vector Search
 > - **설명**: 사용자의 일기 데이터를 기반으로 감정을 분석하고, RAG 기술을 통해 개인화된 상담을 제공하는 챗봇 서비스입니다.
-- Shall With Me (2025.07 ~ 2025.11) : 청년 주거 매칭 및 정책 상담 챗봇 플랫폼
-- Märchand (2025.03 ~ 2025.10) : 수어 인식 및 생성형 AI 활용 동화 학습 서비스
+
+---
+
+> **살며시 (Shall With Me, 쉐어하우스 매칭 서비스)**
+> - **주요 기술**: Spring Boot, WebSocket, STOMP, Langchain4j, AWS EC2, MariaDB
+> - **설명**: 온통청년 API를 연동하여 청년 주거 정보를 제공하고, WebSocket 기반 실시간 채팅과 RAG 챗봇으로 상담을 지원하는 플랫폼입니다.
+
+---
+
+> **메르핸드 (Märchand, 수어 학습 서비스)**
+> - **주요 기술**: Spring Boot, TensorFlow, OpenAI API, Flask, MyBatis, MariaDB
+> - **설명**: TensorFlow 모션 인식으로 수어를 번역하고, OpenAI API를 통해 사용자의 동작에 맞춘 동화 콘텐츠를 생성하는 학습 서비스입니다.
 
 ## Contact
 <a href="mailto:yjmo0309@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
