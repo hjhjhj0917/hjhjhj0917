@@ -44,6 +44,7 @@ Backend
 <div align="center">
   <a href="https://github.com/hjhjhj0917/maumPRJ">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=hjhjhj0917&repo=maumPRJ&theme=tokyonight&show_icons=true" alt="MAUM Project Card" />
+    <a href="https://github.com/hjhjhj0917/maumPRJ"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hjhjhj0917&repo=maumPRJ&theme=tokyonight&show_icons=true" alt="MAUM" /></a>
   </a>
 </div>
 
