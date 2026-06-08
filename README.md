@@ -41,16 +41,6 @@ Backend
 
 ## Projects
 
-<div align="center">
-  
-<a href="https://github.com/hjhjhj0917/maumPRJ">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hjhjhj0917&repo=maumPRJ&theme=tokyonight&show_icons=true" />
-</a>
-
-</div>
-- 한국폴리텍대학 서울강서캠퍼스 빅데이터과 재학 (2025.03 ~ )
-- Spring Boot 기반의 백엔드 시스템 구축과 RAG, 생성형 AI 기술 연동에 관심이 많습니다.
-- 웹 서비스 기획부터 배포, 인프라 구축까지 전체 사이클을 경험하며 풀스택 역량을 키우고 있습니다.
 - MAUM (2026.03 ~ 2026.06) : 일기 텍스트 기반 감정 분석 및 RAG 챗봇 서비스
 - Shall With Me (2025.07 ~ 2025.11) : 청년 주거 매칭 및 정책 상담 챗봇 플랫폼
 - Märchand (2025.03 ~ 2025.10) : 수어 인식 및 생성형 AI 활용 동화 학습 서비스
