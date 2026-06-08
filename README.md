@@ -41,6 +41,11 @@ Backend
 
 ## Projects
 
+<a href="https://github.com/hjhjhj0917/maumPRJ">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hjhjhj0917&repo=maumPRJ&theme=tokyonight&show_icons=true" />
+</a>
+<br/>
+
 > **MAUM (일기 기반 AI 감정 분석 및 RAG 챗봇)**
 > - **주요 기술**: Spring Boot, JWT, Redis, KoELECTRA, HyperCLOVA X, MongoDB Atlas Vector Search
 > - **설명**: 사용자의 일기 데이터를 기반으로 감정을 분석하고, RAG 기술을 통해 개인화된 상담을 제공하는 챗봇 서비스입니다.
