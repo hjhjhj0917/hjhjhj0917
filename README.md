@@ -14,6 +14,10 @@ Backend
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hjhjhj0917&layout=compact&theme=tokyonight"/>
 </p>
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/hjhjhj0917/hjhjhj0917/output/github-contribution-grid-snake.svg)
+
 ## Skills
 
 ### Backend
