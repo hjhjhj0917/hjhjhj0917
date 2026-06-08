@@ -41,9 +41,7 @@ Backend
 
 ## Projects
 
-<div align="center">
-  <a href="https://github.com/hjhjhj0917/maumPRJ"><img src="https://github-readme-stats.vercel.app/api/pin/?username=hjhjhj0917&repo=maumPRJ&theme=tokyonight&show_icons=true" alt="MAUM" /></a>
-</div>
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=hjhjhj0917&repo=maumPRJ)
 
 > **MAUM (일기 기반 AI 감정 분석 및 RAG 챗봇)**
 > - **주요 기술**: Spring Boot, JWT, Redis, KoELECTRA, HyperCLOVA X, MongoDB Atlas Vector Search
