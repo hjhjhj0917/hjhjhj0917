@@ -23,7 +23,7 @@ Backend
 ## GitHub Stats
 <p align="center">
   <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hjhjhj0917&show_icons=true&theme=tokyonight"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjhjhj0917&layout=compact&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hjhjhj0917&layout=compact&theme=tokyonight"/>
 </p>
 
 ## 🐍 Contribution Snake
