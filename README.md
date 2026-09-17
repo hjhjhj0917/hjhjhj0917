@@ -1,7 +1,14 @@
-# Yang Jun-mo
-Backend
-> "도전은 성장의 가장 빠른 방법이다."
-> 꾸준한 성장을 지향하며, 새로운 기술을 서비스에 적용하고 문제를 해결하는 과정을 즐깁니다.
+<h1 align="center">Hi, I'm Yang Jun-mo</h1>
+<h3 align="center">Backend Developer who turns challenges into growth</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6DB33F&center=true&vCenter=true&width=600&lines=%EB%8F%84%EC%A0%84%EC%9D%80+%EC%84%B1%EC%9E%A5%EC%9D%98+%EA%B0%80%EC%9E%A5+%EB%B9%A0%EB%A5%B8+%EB%B0%A9%EB%B2%95%EC%9E%85%EB%8B%88%EB%8B%A4.;Spring+Boot%2C+RAG%2C+%EC%83%9D%EC%84%B1%ED%98%95+AI%EB%A5%BC+%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90+%EC%97%B0%EA%B2%B0%ED%95%A9%EB%8B%88%EB%8B%A4." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hjhjhj0917&style=flat-square&color=6DB33F" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/hjhjhj0917?style=flat-square&color=6DB33F" alt="followers"/>
+</p>
 
 <br/>
 
@@ -17,13 +24,26 @@ Backend
 ### Certifications
 - 정보처리산업기사 (2026.06.12)
 - SQL 개발자(SQLD) (2025.06.27)
-  
+
+<br/>
+
+## Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,pytorch,js,react,html,css,mariadb,mongodb,redis,aws,gcp,docker,git" />
+</p>
+
 <br/>
 
 ## GitHub Stats
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats-six-rho-46.vercel.app/api?username=hjhjhj0917&show_icons=true&theme=tokyonight"/>
-  <img height="165" src="https://github-readme-stats-six-rho-46.vercel.app/api/top-langs/?username=hjhjhj0917&layout=compact&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats-six-rho-46.vercel.app/api?username=hjhjhj0917&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats-six-rho-46.vercel.app/api/top-langs/?username=hjhjhj0917&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hjhjhj0917&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ## 🐍 Contribution Snake
@@ -39,37 +59,21 @@ Backend
 
 <br/>
 
-## Skills
-
-### Backend
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring-Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-
-### Frontend
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-
-### Database & Cache
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
-
-### Infrastructure & Tools
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-
-<br/>
-
 ## Projects
 
-MAUM (일기 기반 AI 감정 분석 및 RAG 챗봇)
-> - **주요 기술**: Spring Boot, JWT, Redis, KoELECTRA, HyperCLOVA X, MongoDB Atlas Vector Search
-> - **설명**: 사용자의 일기 데이터를 기반으로 감정을 분석하고, RAG 기술을 통해 개인화된 상담을 제공하는 챗봇 서비스입니다.
+**MAUM** (일기 기반 AI 감정 분석 및 RAG 챗봇)
+> - **주요 기술**: Spring Boot, FastAPI, JWT, Redis, KoELECTRA, Google Gemini, MongoDB Atlas Vector Search
+> - **설명**: 사용자의 일기 데이터를 기반으로 감정·우울 지수를 분석하고, RAG 기술과 Gemini를 통해 개인화된 AI 상담 챗봇, 감정 기반 음악 추천, 마이페이지 통계 리포트를 제공하는 서비스입니다.
 
 ---
 
-살며시 (Shall With Me, 쉐어하우스 매칭 서비스)
+**살며시** (Shall With Me, 쉐어하우스 매칭 서비스)
 > - **주요 기술**: Spring Boot, WebSocket, STOMP, Langchain4j, AWS EC2, MariaDB
 > - **설명**: 온통청년 API를 연동하여 청년 주거 정보를 제공하고, WebSocket 기반 실시간 채팅과 RAG 챗봇으로 상담을 지원하는 플랫폼입니다.
 
 ---
 
-메르핸드 (Märchand, 수어 학습 서비스)
+**메르핸드** (Märchand, 수어 학습 서비스)
 > - **주요 기술**: Spring Boot, TensorFlow, OpenAI API, Flask, MyBatis, MariaDB
 > - **설명**: TensorFlow 모션 인식으로 수어를 번역하고, OpenAI API를 통해 사용자의 동작에 맞춘 동화 콘텐츠를 생성하는 학습 서비스입니다.
 
