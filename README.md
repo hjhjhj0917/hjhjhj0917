@@ -42,10 +42,6 @@
   <img height="165" src="https://github-readme-stats-six-rho-46.vercel.app/api/top-langs/?username=hjhjhj0917&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hjhjhj0917&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
 ## 🐍 Contribution Snake
 
 <picture>
